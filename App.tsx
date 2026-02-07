@@ -16,22 +16,22 @@ import {
 } from './types';
 
 // --- COMPONENTS ---
-import DashboardComponent from './components/MainDashboard.tsx'; 
-import AgendaView from './components/AgendaView.tsx';
-import ContactsView from './components/ContactsView.tsx';
-import TasksView from './components/TasksView.tsx';
-import GroupsView from './components/GroupsView.tsx';
-import MessagingView from './components/MessagingView.tsx';
-import InventoryView from './components/InventoryView.tsx';
-import KitchenEngineeringView from './components/KitchenEngineeringView.tsx';
-import HousekeepingView from './components/HousekeepingView.tsx';
-import MaintenanceView from './components/MaintenanceView.tsx';
-import ReceptionView from './components/ReceptionView.tsx';
-import SpaView from './components/SpaView.tsx'; 
-import SalesCRMView from './components/SalesCRMView.tsx'; 
-import AiAssistant from './components/AiAssistant.tsx';
-import LoginPage from './components/LoginPage.tsx';
-import InstallPwaPrompt from './components/InstallPwaPrompt.tsx';
+import DashboardComponent from './components/MainDashboard'; 
+import AgendaView from './components/AgendaView';
+import ContactsView from './components/ContactsView';
+import TasksView from './components/TasksView';
+import GroupsView from './components/GroupsView';
+import MessagingView from './components/MessagingView';
+import InventoryView from './components/InventoryView';
+import KitchenEngineeringView from './components/KitchenEngineeringView';
+import HousekeepingView from './components/HousekeepingView';
+import MaintenanceView from './components/MaintenanceView';
+import ReceptionView from './components/ReceptionView';
+import SpaView from './components/SpaView'; 
+import SalesCRMView from './components/SalesCRMView'; 
+import AiAssistant from './components/AiAssistant';
+import LoginPage from './components/LoginPage';
+import InstallPwaPrompt from './components/InstallPwaPrompt';
 
 // --- MODALS ---
 import SettingsModal from './components/SettingsModal';
