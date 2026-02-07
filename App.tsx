@@ -18,7 +18,7 @@ import {
 // --- COMPONENTS ---
 import DashboardComponent from './components/MainDashboard.tsx'; 
 import AgendaView from './components/AgendaView.tsx';
-import ContactsView from './components/ContactsView';
+import ContactsView from './components/ContactsView.tsx';
 import TasksView from './components/TasksView';
 import GroupsView from './components/GroupsView';
 import MessagingView from './components/MessagingView';
